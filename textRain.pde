@@ -4,7 +4,7 @@ Capture cam;
 int brightnessThreshold = 105;
 
 PFont f;
-String message = "I've got ZAID in my hands";
+String message = "It's raining cats and dogs!";
 // An array of Letter objects
 Letter[] letters;
 int prevNumFrames = 0;
